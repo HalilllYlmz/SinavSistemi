@@ -50,7 +50,6 @@
             this.txtSifre.Name = "txtSifre";
             this.txtSifre.Size = new System.Drawing.Size(220, 30);
             this.txtSifre.TabIndex = 26;
-            this.txtSifre.Text = "2004";
             this.txtSifre.UseSystemPasswordChar = true;
             // 
             // txtKullaniciAdi
@@ -60,7 +59,6 @@
             this.txtKullaniciAdi.Name = "txtKullaniciAdi";
             this.txtKullaniciAdi.Size = new System.Drawing.Size(220, 30);
             this.txtKullaniciAdi.TabIndex = 25;
-            this.txtKullaniciAdi.Text = "Elkhanorcv";
             // 
             // label2
             // 

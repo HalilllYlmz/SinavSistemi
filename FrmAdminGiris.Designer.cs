@@ -108,7 +108,6 @@
             this.txtKullaniciAdi.Name = "txtKullaniciAdi";
             this.txtKullaniciAdi.Size = new System.Drawing.Size(219, 30);
             this.txtKullaniciAdi.TabIndex = 9;
-            this.txtKullaniciAdi.Text = "Emreunver";
             // 
             // txtSifre
             // 
@@ -116,7 +115,6 @@
             this.txtSifre.Name = "txtSifre";
             this.txtSifre.Size = new System.Drawing.Size(219, 30);
             this.txtSifre.TabIndex = 10;
-            this.txtSifre.Text = "2002";
             this.txtSifre.UseSystemPasswordChar = true;
             // 
             // pictureBox2
